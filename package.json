@@ -13,7 +13,7 @@
     "bug-killer": "^4.4.4",
     "cors": "^2.8.5",
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "formidable": "^1.2.1",
     "google-auth-library": "^5.9.1",
     "googleapis": "^47.0.0",
